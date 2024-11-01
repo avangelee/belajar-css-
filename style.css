@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+body {
+    height: 2000px;
+    background-color: black;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+/* .text {
+    font-family: "Itim", cursive;
+}
+
+.fa-poo {
+    color: palevioletred;
+    font-size: 30px;
+}
+
+.kotak1 {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    display: inline-block;
+    position: static;
+    top: 200px;
+    transition: 0.5s;
+
+}
+
+.kotak2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(43, 170, 176);
+    display: inline-block;
+    transition: 0.5s;
+}
+
+.kotak1:hover {
+    background-color: aquamarine;
+    color: blue;
+}
+
+.kotak2:hover {
+    width: 200px;
+    height: 200px;
+    
+}
+background
+
+*/
+.btn {
+    border-color: aquamarine;
+    border-width: 2px;
+    width: 100px;
+    height: 50px;
+    background-color: black;
+    color: aquamarine;
+    font-family: "Itim", cursive;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background-color: aquamarine;
+    color: #fff;
+    width: 130px;
+    height: 50px;
+} 
+
+.btn:focus {
+    border: 2px solid red;
+    color: red;
+    background-color: #fff;
+}
+
+.but {
+    border-color: pink;
+    border-width: 2px;
+    width: 100px;
+    height: 50px;
+    background-color: black;
+    color: pink;
+    font-family: "Itim", cursive;
+    transition: 0.3s;
+
+}
+
+.but:hover {
+    background-color: pink;
+    color: #fff;
+    width: 130px;
+    height: 50px;
+}
+
+.but:focus {
+    border: 2px solid red;
+    color: red;
+    background-color: #fff;
+}
+
+.ton {
+    border-color: peachpuff;
+    border-width: 2px;
+    width: 100px;
+    height: 50px;
+    background-color: black;
+    color: peachpuff;
+    font-family: "Itim", cursive;
+    transition: 0.3s;
+
+}
+
+.ton:hover {
+    background-color: peachpuff;
+    color: #fff;
+    width: 130px;
+    height: 50px;
+} 
+
+.ton:focus {
+    border: 2px solid red;
+    color: red;
+    background-color: #fff;
+}
+
+.bb {
+    border-color: deeppink;
+    border-width: 2px;
+    width: 100px;
+    height: 50px;
+    background-color: black;
+    color: deeppink;
+    font-family: "Itim", cursive;
+    transition: 0.3s;
+
+}
+
+.bb:hover {
+    background-color: deeppink;
+    color: #fff;
+    width: 130px;
+    height: 50px;
+
+}
+
+.bb:focus {
+    border: 2px solid red;
+    color: red;
+    background-color: #fff;
+}
+
+.uu {
+    border-color: deepskyblue;
+    border-width: 2px;
+    width: 100px;
+    height: 50px;
+    background-color: black;
+    color: peachpuff;
+    font-family: "Itim", cursive;
+    transition: 0.3s;
+
+}
+
+.uu:hover {
+    background-color: deepskyblue;
+    color: #fff;
+    width: 130px;
+    height: 50px;
+    
+}
+
+.uu:focus {
+    border: 2px solid red;
+    color: red;
+    background-color: #fff;
+}
+
+.tt {
+    border-color: palevioletred;
+    border-width: 2px;
+    width: 100px;
+    height: 50px;
+    background-color: black;
+    color: palevioletred;
+    font-family: "Itim", cursive;
+    transition: 0.3s;
+
+}
+
+.tt:hover {
+    background-color: palevioletred;
+    color: #fff;
+    width: 130px;
+    height: 50px;
+}
+
+.tt:focus {
+    border: 2px solid red;
+    color: red;
+    background-color: #fff;
+}
+
+.oo {
+    border-color: greenyellow;
+    border-width: 2px;
+    width: 100px;
+    height: 50px;
+    background-color: black;
+    color: greenyellow;
+    font-family: "Itim", cursive;
+    transition: 0.3s;
+
+}
+
+.oo:hover {
+    background-color: greenyellow;
+    color: #fff;
+    width: 130px;
+    height: 50px;
+}
+
+.oo:focus {
+    border: 2px solid red;
+    color: red;
+    background-color: #fff;
+}
